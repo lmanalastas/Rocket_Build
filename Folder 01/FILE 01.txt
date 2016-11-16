@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hi Megan!!!!!!!! :D
+=======
+Hi Megan Yee!!!!!!!! yippee
+>>>>>>> refs/remotes/origin/master
 
 Hi Lester!!!!!!!
